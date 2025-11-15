@@ -37,6 +37,8 @@ Realizar a apresentação dos integrantes do grupo, destacando suas funções e 
 O trabalho original foi elaborado em formato digital e postado nesse repositório.
 
 <img width="1041" height="592" alt="image" src="https://github.com/user-attachments/assets/a31692e0-f342-4a14-adf7-5af875843457" />
+[Uploading Trabalho-de-Fontes-e-Dados Prof Adriana 11-09-2025.pdf…]()
+
 # Fonte_Dados
 
 ## Matéria Fatec 2025-2 - Atividade: Aprendendo a utilizar o Github
