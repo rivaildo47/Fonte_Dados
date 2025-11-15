@@ -49,7 +49,13 @@ As colunas foram organizadas para facilitar a análise dos código, descrição,
 Utilizamos uma ferramenta gráfica que foi do excel para transformar os dados tratados em um grafico .
 <img width="976" height="569" alt="image" src="https://github.com/user-attachments/assets/d76b1156-276e-40d0-92f5-534a3a85792c" />
 <img width="1477" height="546" alt="image" src="https://github.com/user-attachments/assets/6d847fa7-fd0f-44ff-a3e3-848c10f63128" />
-
+Atividade planilha de municípios com fórmulas
+QUANTIDADE MUNICÍPIOS: 645,00 fórmula utilizada para contagem de municípios "=CONT.VALORES(A:A)-1"
+QUANTIDADE DE CADEIAS PRODUTIVAS: 24,00 fórmula utilizada para contagem de cadeias produtivas "=CONT.VALORES(C:C)-1"
+MAIOR VALOR GERADO EM 2020, EM SJC (VTI-MIL REAIS): 9.681.743,86 fórmula utilizada para contagem do valor gerado "=MÁXIMOSES(sp_municipal!G:G;sp_municipal!D:D;2020;sp_municipal!B:B;"São José dos Campos")"
+MAIOR VTI EM 2007: 11.721.509,53 fórmula utilizada para achar o maior valor de VTI "=MÁXIMOSES(sp_municipal!G:G;sp_municipal!D:D;2007)"
+CADEIA PRODUTIVA, CUJO O VTI FOI MAIOR EM 2007 Produtos Derivados Do Petróleo fórmula utilizada para encontrar a cadeia produtiva "=ÍNDICE(sp_municipal!F:F;CORRESP(G18;sp_municipal!G:G;0);1)"
+#### SP Municipio
 <img width="1705" height="633" alt="image" src="https://github.com/user-attachments/assets/eb7813a4-09d8-4ce6-b8cf-1e872d897f9b" />
 Atividade planilha de municípios com fórmulas
 QUANTIDADE MUNICÍPIOS: 645,00 fórmula utilizada para contagem de municípios "=CONT.VALORES(A:A)-1"
