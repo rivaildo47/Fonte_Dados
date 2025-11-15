@@ -30,3 +30,4 @@ Essa é a soma do valor FOB dos municipios
 Contagen do NCN por unudade e peso
 <img width="976" height="569" alt="image" src="https://github.com/user-attachments/assets/d76b1156-276e-40d0-92f5-534a3a85792c" />
 <img width="1477" height="546" alt="image" src="https://github.com/user-attachments/assets/6d847fa7-fd0f-44ff-a3e3-848c10f63128" />
+<img width="1705" height="633" alt="image" src="https://github.com/user-attachments/assets/eb7813a4-09d8-4ce6-b8cf-1e872d897f9b" />
