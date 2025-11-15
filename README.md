@@ -1,6 +1,12 @@
 
 # Apresentação do grupo para a clase 
 <img width="1041" height="592" alt="image" src="https://github.com/user-attachments/assets/a31692e0-f342-4a14-adf7-5af875843457" />
+Contagen do NCN por unudade e peso
+<img width="976" height="569" alt="image" src="https://github.com/user-attachments/assets/d76b1156-276e-40d0-92f5-534a3a85792c" />
+<img width="1477" height="546" alt="image" src="https://github.com/user-attachments/assets/6d847fa7-fd0f-44ff-a3e3-848c10f63128" />
+Representando ano e municipio
+<img width="1705" height="633" alt="image" src="https://github.com/user-attachments/assets/eb7813a4-09d8-4ce6-b8cf-1e872d897f9b" />
+
 # Fonte_Dados
 ## Matéria Fatec 2025-2 - Atividade: Aprendendo a utilizar o Github
 ![WhatsApp Image Mapa  mental](https://github.com/user-attachments/assets/8cc61744-dabe-47ba-9048-f3dc34932ad4)
@@ -28,7 +34,4 @@ CADEIA PRODUTIVA, CUJO O VTI FOI MAIOR EM 2007 Produtos Derivados Do Petróleo f
 Essa é a soma do valor FOB dos municipios 
 <img width="1318" height="748" alt="image" src="https://github.com/user-attachments/assets/41dd5c0a-b69d-4e55-9cc0-a3b0220e83a1" />
 Contagen do NCN por unudade e peso
-<img width="976" height="569" alt="image" src="https://github.com/user-attachments/assets/d76b1156-276e-40d0-92f5-534a3a85792c" />
-<img width="1477" height="546" alt="image" src="https://github.com/user-attachments/assets/6d847fa7-fd0f-44ff-a3e3-848c10f63128" />
-Representando ano e municipio
-<img width="1705" height="633" alt="image" src="https://github.com/user-attachments/assets/eb7813a4-09d8-4ce6-b8cf-1e872d897f9b" />
+
