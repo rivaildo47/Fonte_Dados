@@ -2,7 +2,7 @@
 
 
 
-Este repositório contém a digitalização do trabalho apresentado em sala de aula, conforme os padrões da ABNT.
+
 
 ## Integrantes
 - Aline  
