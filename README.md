@@ -22,7 +22,7 @@ Fontes de Informação e Banco de Dados
 Adriana da Silva Jacinto  
 
 ## Tema
-Apresentação do grupo para a sala  
+Apresentação do grupo para a Clase
 
 ## Objetivo
 Realizar a apresentação dos integrantes do grupo, destacando suas funções e promovendo a integração entre os colegas da disciplina.
