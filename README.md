@@ -27,3 +27,4 @@ CADEIA PRODUTIVA, CUJO O VTI FOI MAIOR EM 2007 Produtos Derivados Do Petróleo f
 <img width="704" height="578" alt="image" src="https://github.com/user-attachments/assets/d0679d42-c3c0-44cd-8c6c-14f42f64e54f" />
 Essa é a soma do valor FOB dos municipios 
 <img width="1318" height="748" alt="image" src="https://github.com/user-attachments/assets/41dd5c0a-b69d-4e55-9cc0-a3b0220e83a1" />
+<img width="976" height="569" alt="image" src="https://github.com/user-attachments/assets/d76b1156-276e-40d0-92f5-534a3a85792c" />
