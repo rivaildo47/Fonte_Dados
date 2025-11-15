@@ -1,6 +1,6 @@
 # Apresentação do grupo para a clase 
-# Apresentação do grupo para a clase 
-# Apresentação do Grupo
+
+
 
 Este repositório contém a digitalização do trabalho apresentado em sala de aula, conforme os padrões da ABNT.
 
