@@ -1,5 +1,41 @@
 
 # Apresentação do grupo para a clase 
+# Apresentação do Grupo
+
+Este repositório contém a digitalização do trabalho apresentado em sala de aula, conforme os padrões da ABNT.
+
+## Integrantes
+- Aline  
+- Gustavo  
+- Guilherme  
+- Rivaildo  
+- Leandra  
+- Stephane Helen  
+
+## Instituição
+Faculdade de Tecnologia de São Paulo – FATEC  
+
+## Disciplina
+Fontes de Informação e Banco de Dados  
+
+## Professora
+Adriana da Silva Jacinto  
+
+## Tema
+Apresentação do grupo para a sala  
+
+## Objetivo
+Realizar a apresentação dos integrantes do grupo, destacando suas funções e promovendo a integração entre os colegas da disciplina.
+
+## Estrutura do Trabalho
+1. Introdução  
+2. Desenvolvimento  
+3. Conclusão  
+4. Referências  
+
+## Fonte de Dados
+O trabalho original foi elaborado em formato físico e digitalizado para este repositório.
+
 <img width="1041" height="592" alt="image" src="https://github.com/user-attachments/assets/a31692e0-f342-4a14-adf7-5af875843457" />
 # Fonte_Dados
 
