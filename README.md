@@ -1,4 +1,4 @@
-# Apresentação do trabalho - 1º Semestre Apresentação de trabalho em grupo, falando sobre o perfil de cada membro, vida social e trabalho. 
+# Apresentação de trabalho em grupo, falando sobre o perfil de cada membro, vida social e trabalho. 
 ## Integrantes
 - Aline  
 - Gustavo  
