@@ -55,15 +55,7 @@ QUANTIDADE DE CADEIAS PRODUTIVAS: 24,00 fórmula utilizada para contagem de cade
 MAIOR VALOR GERADO EM 2020, EM SJC (VTI-MIL REAIS): 9.681.743,86 fórmula utilizada para contagem do valor gerado "=MÁXIMOSES(sp_municipal!G:G;sp_municipal!D:D;2020;sp_municipal!B:B;"São José dos Campos")"
 MAIOR VTI EM 2007: 11.721.509,53 fórmula utilizada para achar o maior valor de VTI "=MÁXIMOSES(sp_municipal!G:G;sp_municipal!D:D;2007)"
 CADEIA PRODUTIVA, CUJO O VTI FOI MAIOR EM 2007 Produtos Derivados Do Petróleo fórmula utilizada para encontrar a cadeia produtiva "=ÍNDICE(sp_municipal!F:F;CORRESP(G18;sp_municipal!G:G;0);1)"
-#### SP Municipio
-<img width="1705" height="633" alt="image" src="https://github.com/user-attachments/assets/eb7813a4-09d8-4ce6-b8cf-1e872d897f9b" />
-Atividade planilha de municípios com fórmulas
-QUANTIDADE MUNICÍPIOS: 645,00 fórmula utilizada para contagem de municípios "=CONT.VALORES(A:A)-1"
-QUANTIDADE DE CADEIAS PRODUTIVAS: 24,00 fórmula utilizada para contagem de cadeias produtivas "=CONT.VALORES(C:C)-1"
-MAIOR VALOR GERADO EM 2020, EM SJC (VTI-MIL REAIS): 9.681.743,86 fórmula utilizada para contagem do valor gerado "=MÁXIMOSES(sp_municipal!G:G;sp_municipal!D:D;2020;sp_municipal!B:B;"São José dos Campos")"
-MAIOR VTI EM 2007: 11.721.509,53 fórmula utilizada para achar o maior valor de VTI "=MÁXIMOSES(sp_municipal!G:G;sp_municipal!D:D;2007)"
-CADEIA PRODUTIVA, CUJO O VTI FOI MAIOR EM 2007 Produtos Derivados Do Petróleo fórmula utilizada para encontrar a cadeia produtiva "=ÍNDICE(sp_municipal!F:F;CORRESP(G18;sp_municipal!G:G;0);1)"
-#### SP Municipio
+
 [Uploading SP_Municipal.xlsx01.xlsx…]()
 ##### Atividade planilha de municipios com formulas
 QUANTIDADE MUNICIPIOS: 645,00 fórmula utilizada para contagem de municípios "=CONT.VALORES(A:A)-1"
