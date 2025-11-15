@@ -29,3 +29,4 @@ Essa é a soma do valor FOB dos municipios
 <img width="1318" height="748" alt="image" src="https://github.com/user-attachments/assets/41dd5c0a-b69d-4e55-9cc0-a3b0220e83a1" />
 Contagen do NCN por unudade e peso
 <img width="976" height="569" alt="image" src="https://github.com/user-attachments/assets/d76b1156-276e-40d0-92f5-534a3a85792c" />
+<img width="1477" height="546" alt="image" src="https://github.com/user-attachments/assets/6d847fa7-fd0f-44ff-a3e3-848c10f63128" />
