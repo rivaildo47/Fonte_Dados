@@ -23,4 +23,5 @@ MAIOR VTI EM 2007: 11.721.509,53 fórmula utilizada para achar o maior valor de 
 
 CADEIA PRODUTIVA, CUJO O VTI FOI MAIOR EM 2007 Produtos Derivados Do Petróleo fórmula utilizada para encontrar a cadeia produtiva "=ÍNDICE(sp_municipal!F:F;CORRESP(G18;sp_municipal!G:G;0);1)"
 <img width="704" height="578" alt="image" src="https://github.com/user-attachments/assets/d0679d42-c3c0-44cd-8c6c-14f42f64e54f" />
+Essa é a soma do valor FOB dos municipios 
 <img width="1318" height="748" alt="image" src="https://github.com/user-attachments/assets/41dd5c0a-b69d-4e55-9cc0-a3b0220e83a1" />
