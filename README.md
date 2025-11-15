@@ -1,9 +1,4 @@
 # Apresentação do trabalho - 1º Semestre Apresentação de trabalho em grupo, falando sobre o perfil de cada membro, vida social e trabalho. 
-
-
-
-
-
 ## Integrantes
 - Aline  
 - Gustavo  
@@ -37,23 +32,25 @@ Realizar a apresentação dos integrantes do grupo, destacando suas funções e 
 O trabalho original foi elaborado em formato digital e postado nesse repositório.
 
 <img width="1041" height="592" alt="image" src="https://github.com/user-attachments/assets/a31692e0-f342-4a14-adf7-5af875843457" />
-[Uploading Trabalho-de-Fontes-e-Dados Prof Adriana 11-09-2025.pdf…]()
+
 
 # Fonte_Dados
 
 ## Matéria Fatec 2025-2 - Atividade: Aprendendo a utilizar o Github
 ![WhatsApp Image Mapa  mental](https://github.com/user-attachments/assets/8cc61744-dabe-47ba-9048-f3dc34932ad4)
 
-Contagen do NCN por unudade e peso
+
+# Gráfico de NCM - Unidade e peso
+
+Este trabalho consistiu na coleta, tratamento e organização de dados referentes à Nomenclatura Comum do Mercosul (NCM).  
+
+Após a limpeza e estruturação das informações, os dados foram transformados em um gráfico ilustrativo, desenvolvido em ferramenta de visualização, com o objetivo de facilitar a interpretação e destacar os principais resultados.  
+As colunas foram organizadas para facilitar a análise (ex.: código NCM, descrição, quantidade, valor).
+Utilizamos uma ferramenta gráfica que foi o Excel para transformar os dados tratados em representação visual.
 <img width="976" height="569" alt="image" src="https://github.com/user-attachments/assets/d76b1156-276e-40d0-92f5-534a3a85792c" />
 <img width="1477" height="546" alt="image" src="https://github.com/user-attachments/assets/6d847fa7-fd0f-44ff-a3e3-848c10f63128" />
 Representando ano e municipio
 <img width="1705" height="633" alt="image" src="https://github.com/user-attachments/assets/eb7813a4-09d8-4ce6-b8cf-1e872d897f9b" />
-
-
-
-
-[Uploading Trabalho-de-Fontes-e-Dados Prof Adriana 11-09-2025.pdf…]()
 
 #### SP Municipio
 [Uploading SP_Municipal.xlsx01.xlsx…]()
