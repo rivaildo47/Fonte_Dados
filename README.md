@@ -40,7 +40,7 @@ O trabalho original foi elaborado em formato digital e postado nesse repositóri
 ![WhatsApp Image Mapa  mental](https://github.com/user-attachments/assets/8cc61744-dabe-47ba-9048-f3dc34932ad4)
 
 
-# Gráfico de NCM - Unidade e peso
+# Gráfico de NCM - Unidade e Medida
 
 Este trabalho consistiu na coleta, tratamento e organização de dados.  
 
