@@ -4,15 +4,15 @@
 ![WhatsApp Image Mapa  mental](https://github.com/user-attachments/assets/8cc61744-dabe-47ba-9048-f3dc34932ad4)
 
 
-##Atividade: Apresentação do trabalho - 1º Semestre
+###Atividade: Apresentação do trabalho - 1º Semestre
 Apresentação de trabalho em grupo, falando sobre o perfil de cada integrante, vida social e trabalho.
 [Uploading Trabalho-de-Fontes-e-Dados Prof Adriana 11-09-2025.pdf…]()
 
-### SP Municipio
+#### SP Municipio
 [Uploading SP_Municipal.xlsx01.xlsx…]()
 
 
-#### Atividade planilha de municipios com formulas
+##### Atividade planilha de municipios com formulas
 QUANTIDADE MUNICIPIOS: 645,00 fórmula utilizada para contagem de municípios "=CONT.VALORES(A:A)-1"
 
 QUANTIDADE DE CADEIAS PRODUTIVAS: 24,00 fórmula utilizada para contagem de cadeias produtivas "=CONT.VALORES(C:C)-1"
