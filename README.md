@@ -1,4 +1,4 @@
-# Atividade: Apresentação do trabalho - 1º Semestre Apresentação de trabalho em grupo, falando sobre o perfil de cada membro, vida social e trabalho. Uploading Trabalho-de-Fontes-e-Dados Prof Adriana 11-09-2025.pdf…
+# Atividade: Apresentação do trabalho - 1º Semestre Apresentação de trabalho em grupo, falando sobre o perfil de cada membro, vida social e trabalho. 
 
 
 
