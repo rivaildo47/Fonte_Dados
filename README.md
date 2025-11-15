@@ -2,6 +2,7 @@
 # Apresentação do grupo para a clase 
 <img width="1041" height="592" alt="image" src="https://github.com/user-attachments/assets/a31692e0-f342-4a14-adf7-5af875843457" />
 # Fonte_Dados
+
 ## Matéria Fatec 2025-2 - Atividade: Aprendendo a utilizar o Github
 ![WhatsApp Image Mapa  mental](https://github.com/user-attachments/assets/8cc61744-dabe-47ba-9048-f3dc34932ad4)
 
