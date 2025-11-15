@@ -16,7 +16,7 @@ Este repositório contém a digitalização do trabalho apresentado em sala de a
 Faculdade de Tecnologia de São Paulo – FATEC  
 
 ## Disciplina
-Fontes de Informação e Banco de Dados  
+GPI 
 
 ## Professora
 Adriana da Silva Jacinto  
@@ -34,7 +34,7 @@ Realizar a apresentação dos integrantes do grupo, destacando suas funções e 
 4. Referências  
 
 ## Fonte de Dados
-O trabalho original foi elaborado em formato físico e digitalizado para este repositório.
+O trabalho original foi elaborado em formato digital e postado nesse repositório.
 
 <img width="1041" height="592" alt="image" src="https://github.com/user-attachments/assets/a31692e0-f342-4a14-adf7-5af875843457" />
 # Fonte_Dados
