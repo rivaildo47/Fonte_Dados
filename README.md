@@ -42,11 +42,11 @@ O trabalho original foi elaborado em formato digital e postado nesse repositóri
 
 # Gráfico de NCM - Unidade e peso
 
-Este trabalho consistiu na coleta, tratamento e organização de dados referentes à Nomenclatura Comum do Mercosul (NCM).  
+Este trabalho consistiu na coleta, tratamento e organização de dados.  
 
 Após a limpeza e estruturação das informações, os dados foram transformados em um gráfico ilustrativo, desenvolvido em ferramenta de visualização, com o objetivo de facilitar a interpretação e destacar os principais resultados.  
 As colunas foram organizadas para facilitar a análise dos código, descrição, quantidade, valor).
-Utilizamos uma ferramenta gráfica que foi o Excel para transformar os dados tratados em representação visual.
+Utilizamos uma ferramenta gráfica que foi do Excel para transformar os dados tratados em representação visual.
 <img width="976" height="569" alt="image" src="https://github.com/user-attachments/assets/d76b1156-276e-40d0-92f5-534a3a85792c" />
 <img width="1477" height="546" alt="image" src="https://github.com/user-attachments/assets/6d847fa7-fd0f-44ff-a3e3-848c10f63128" />
 Representando ano e municipio
