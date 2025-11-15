@@ -6,44 +6,29 @@
 - Rivaildo  
 - Leandra  
 - Stephane Helen  
-
 ## Instituição
 Faculdade de Tecnologia de São Paulo – FATEC  
-
 ## Disciplina
 GPI 
-
 ## Professora
 Adriana da Silva Jacinto  
-
 ## Tema
 Apresentação do grupo para a Clase
-
 ## Objetivo
 Realizar a apresentação dos integrantes do grupo, destacando suas funções e promovendo a integração entre os colegas da disciplina.
-
 ## Estrutura do Trabalho
 1. Introdução  
 2. Desenvolvimento  
 3. Conclusão  
 4. Referências  
-
 ## Fonte de Dados
 O trabalho original foi elaborado em formato digital e postado nesse repositório.
-
 <img width="1041" height="592" alt="image" src="https://github.com/user-attachments/assets/a31692e0-f342-4a14-adf7-5af875843457" />
-
-
 # Fonte_Dados
-
 ## Matéria Fatec 2025-2 - Atividade: Aprendendo a utilizar o Github
 ![WhatsApp Image Mapa  mental](https://github.com/user-attachments/assets/8cc61744-dabe-47ba-9048-f3dc34932ad4)
-
-
 # Gráfico de NCM - Unidade e Medida
-
 Este trabalho consistiu na coleta, tratamento e organização de dados.  
-
 Após a limpeza e estruturação das informações, os dados foram transformados em um gráfico ilustrativo, desenvolvido em ferramenta de visualização, com o objetivo de facilitar a interpretação e destacar os principais resultados.  
 As colunas foram organizadas para facilitar a análise dos código, descrição, quantidade, valor.
 Utilizamos uma ferramenta gráfica que foi do excel para transformar os dados tratados em um grafico .
@@ -63,9 +48,7 @@ CADEIA PRODUTIVA, CUJO O VTI FOI MAIOR EM 2007 Produtos Derivados Do Petróleo f
 - Transformação: organização das colunas, aplicação de filtros e categorização dos registros relevantes.  
 - Visualização: geração de gráfico ilustrativo no Colab, destacando os principais resultados obtidos.   
 <img width="901" height="550" alt="image" src="https://github.com/user-attachments/assets/1940fc49-b60c-4241-a196-29aa5973478d" />
-
 <img width="704" height="578" alt="image" src="https://github.com/user-attachments/assets/d0679d42-c3c0-44cd-8c6c-14f42f64e54f" />
 Essa é a soma do valor FOB dos municipios 
 <img width="1318" height="748" alt="image" src="https://github.com/user-attachments/assets/41dd5c0a-b69d-4e55-9cc0-a3b0220e83a1" />
-Contagen do NCN por unudade e peso
 
