@@ -48,7 +48,9 @@ CADEIA PRODUTIVA, CUJO O VTI FOI MAIOR EM 2007 Produtos Derivados Do Petróleo f
 - Transformação: organização das colunas, aplicação de filtros e categorização dos registros relevantes.  
 - Visualização: geração de gráfico ilustrativo no Colab, destacando os principais resultados obtidos.   
 <img width="901" height="550" alt="image" src="https://github.com/user-attachments/assets/1940fc49-b60c-4241-a196-29aa5973478d" />
+## Dados Tratados em Python no Google Colab
 <img width="704" height="578" alt="image" src="https://github.com/user-attachments/assets/d0679d42-c3c0-44cd-8c6c-14f42f64e54f" />
+Foram usado dados so Ite Kaggle, baixado em csv. tratados em Exel e Python pelo Google Colab Criado um Grafica linear.
 Essa é a soma do valor FOB dos municipios 
 <img width="1318" height="748" alt="image" src="https://github.com/user-attachments/assets/41dd5c0a-b69d-4e55-9cc0-a3b0220e83a1" />
 
