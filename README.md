@@ -34,7 +34,9 @@ As colunas foram organizadas para facilitar a análise dos código, descrição,
 Utilizamos uma ferramenta gráfica que foi do excel para transformar os dados tratados em um grafico .
 <img width="976" height="569" alt="image" src="https://github.com/user-attachments/assets/d76b1156-276e-40d0-92f5-534a3a85792c" />
 [Uploading SP_Municipal.xlsx01.xlsx…]()
-##### Atividade planilha de municipios com formulas
+
+##Atividade planilha de municipios com formulas
+
 QUANTIDADE MUNICIPIOS: 645,00 fórmula utilizada para contagem de municípios "=CONT.VALORES(A:A)-1"
 QUANTIDADE DE CADEIAS PRODUTIVAS: 24,00 fórmula utilizada para contagem de cadeias produtivas "=CONT.VALORES(C:C)-1"
 MAIOR VALOR GERADO EM 2020, EM SJC (VTI-MIL REAIS): 9.681.743,86 fórmula utilizada para contagem do valor gerado "=MÁXIMOSES(sp_municipal!G:G;sp_municipal!D:D;2020;sp_municipal!B:B;"São José dos Campos")"
